@@ -12,7 +12,8 @@ class HomeWorkActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val rootView = findViewById<View>(R.id.main)
+        // Menambahkan dukungan edge-to-edge dengan WindowInsetst
+        val rootView = findViewById<View>(R.id.main) // Pastikan ID sesuai dengan layout Anda
         ViewCompat.setOnApplyWindowInsetsListener(rootView) { view, insets ->
             val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
             view.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)

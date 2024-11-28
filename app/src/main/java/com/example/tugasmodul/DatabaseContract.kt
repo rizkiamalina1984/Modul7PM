@@ -1,9 +1,9 @@
-package com.example.tugasmodul.database
+package com.example.tugasmodul
 
 import android.provider.BaseColumns
 
 internal class DatabaseContract {
-    internal class HomeworkColumns : BaseColumns {
+    internal class  HomeworkColumns : BaseColumns {
         companion object {
             const val TABLE_NAME = "homework"
             const val _ID = "_id"
