@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.modul7.app-mergeDebugResources-3:/layout/activity_add_homework.xml",
+        "source": "com.example.modul7.app-main-6:/layout/activity_add_homework.xml"
+    },
+    {
+        "merged": "com.example.modul7.app-mergeDebugResources-3:/layout/activity_homework.xml",
+        "source": "com.example.modul7.app-main-6:/layout/activity_homework.xml"
+    },
+    {
+        "merged": "com.example.modul7.app-mergeDebugResources-3:/layout/item_homework.xml",
+        "source": "com.example.modul7.app-main-6:/layout/item_homework.xml"
+    }
+]

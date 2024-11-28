@@ -1,0 +1,6 @@
+com.example.modul7.test.app-androidTest-0 C:\Modul7PEMOB\app\build\generated\res\resValues\androidTest\debug
+com.example.modul7.test.app-mergeDebugAndroidTestResources-1 C:\Modul7PEMOB\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.modul7.test.app-mergeDebugAndroidTestResources-2 C:\Modul7PEMOB\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.modul7.test.app-debugAndroidTest-3 C:\Modul7PEMOB\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.example.modul7.test.app-core-1.6.1-4 C:\Users\Lenovo\.gradle\caches\8.9\transforms\6baa6c288bf0a07acb1547ffe635c5e1\transformed\core-1.6.1\res
+com.example.modul7.test.app-tracing-1.2.0-5 C:\Users\Lenovo\.gradle\caches\8.9\transforms\cb294f69ea16f6c7516e7592d42e5475\transformed\tracing-1.2.0\res

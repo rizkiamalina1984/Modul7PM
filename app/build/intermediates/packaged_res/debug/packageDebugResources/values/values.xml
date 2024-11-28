@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">modul7</string>
+    <string name="description">Description</string>
+    <string name="submit">Submit</string>
+    <string name="title">Title</string>
+    <style name="Base.Theme.Modul7" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Modul7" parent="Base.Theme.Modul7"/>
+</resources>

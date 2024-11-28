@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_baseline_add_24
+drawable ic_baseline_delete_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_delete
+id btn_submit
+id cv_item_homework
+id edt_description
+id edt_title
+id fab_add
+id rv_homework
+id textInputLayout
+id textInputLayout2
+id tv_item_date
+id tv_item_desription
+id tv_item_title
+layout activity_add_homework
+layout activity_homework
+layout item_homework
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string description
+string submit
+string title
+style Base.Theme.Modul7
+style Theme.Modul7
+xml backup_rules
+xml data_extraction_rules
