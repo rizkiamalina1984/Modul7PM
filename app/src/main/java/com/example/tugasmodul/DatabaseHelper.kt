@@ -3,7 +3,7 @@ package com.example.tugasmodul
 import android.content.Context
 import android.database.sqlite.SQLiteDatabase
 import android.database.sqlite.SQLiteOpenHelper
-import com.example.modul7.DatabaseContract.HomeworkColumns.Companion.TABLE_NAME
+import com.example.tugasmodul.DatabaseContract.HomeworkColumns.Companion.TABLE_NAME
 
 internal class DatabaseHelper(context: Context): SQLiteOpenHelper(context, DATABASE_NAME, null, DATABASE_VERSION){
     companion object {
