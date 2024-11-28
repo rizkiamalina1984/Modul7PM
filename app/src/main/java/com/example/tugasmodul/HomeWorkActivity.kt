@@ -10,7 +10,7 @@ class HomeWorkActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_homework)
 
         // Menambahkan dukungan edge-to-edge dengan WindowInsetst
         val rootView = findViewById<View>(R.id.main) // Pastikan ID sesuai dengan layout Anda
