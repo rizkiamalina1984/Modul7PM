@@ -11,7 +11,6 @@ import com.example.modul7.databinding.ActivityHomeworkBinding
 import com.example.modul7.AddHomeworkActivity
 import com.example.modul7.Homework
 import com.example.modul7.HomeworkAdapter
-import com.example.modul7.HomeworkHelper
 import com.example.modul7.MappingHelper
 import com.google.android.material.snackbar.Snackbar
 import kotlinx.coroutines.Dispatchers
